@@ -1,0 +1,15 @@
+{
+  "name": "netutil",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "local": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "Even Stensberg<evenstensberg@gmail.com>",
+  "license": "MIT",
+  "description": "simple util",
+  "dependencies": {
+    "local-devices": "^4.0.0"
+  }
+}

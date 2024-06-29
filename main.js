@@ -1,0 +1,1 @@
+require('local-devices')().then(console.log)
